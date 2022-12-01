@@ -5,7 +5,7 @@
 2. Single Page Application
 3. Jsx and Js
 4. Virtual Dom and Real Dom
-5. Vite - benefit and use
+5. Vite - benefit and use / Eslint
 6. Npx and npm -difference use
 7. Class Component 
 8. Props vs state
