@@ -2,6 +2,7 @@
 ## Javascript
 ### Basic javascript
 1. 20 videos
+2. Array Methods
 
 ## React
-## UseEffects - Http Request
+### UseEffects - Http Request
