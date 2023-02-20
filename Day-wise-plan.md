@@ -5,4 +5,9 @@
 2. Array Methods
 
 ## React
-### UseEffects - Http Request
+1. UseEffects - Http Request
+2. UseEffect
+3. UseReducer
+
+## Practical Question
+1. Leet Code
